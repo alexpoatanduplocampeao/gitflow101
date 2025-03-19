@@ -1,1 +1,2 @@
 Declarações de variáveis
+Criou a leitura de dados
