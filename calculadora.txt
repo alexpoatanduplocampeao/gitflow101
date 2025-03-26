@@ -1,0 +1,6 @@
+Declarações de variáveis
+Criou a leitura de dados
+
+Criação da função soma
+
+Criação da função subtração
